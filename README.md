@@ -451,7 +451,7 @@ The experience helped me move beyond theoretical learning and develop complete a
 
 ### GitHub
 
-🔗 **github.com/singipurapudinesh-coder**
+🔗 **https://github.com/SINGIPURAPUDINESH/PYTHON-INTERNSHIP-PROJECTS/projects**
 
 Explore my other projects covering:
 
